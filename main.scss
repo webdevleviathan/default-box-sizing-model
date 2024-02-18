@@ -1,5 +1,14 @@
 
-//defaut for box-sizing
+/*defaut for box-sizing */
 *, *::before, *::after {
   box-sizing: border-box;
+}
+
+
+/* traditional one */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
