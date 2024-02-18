@@ -1,5 +1,5 @@
 
-//defaut for box-szing add this in your code
-*, *:before, *:after {
+//defaut for box-sizing
+*, *::before, *::after {
   box-sizing: border-box;
 }
